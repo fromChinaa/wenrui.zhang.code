@@ -1,0 +1,15 @@
+
+    {
+        "workbench.colorTheme": "Default Dark+",
+        "cmake.configureOnOpen": true,
+        "window.zoomLevel": 0,
+        "editor.minimap.enabled": true,
+        "C_Cpp.autocomplete": "Default",
+        "[cpp]": {
+            "editor.quickSuggestions": true
+        },
+        "[c]": {
+            "editor.quickSuggestions": true
+        }
+    }
+    
