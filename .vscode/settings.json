@@ -2,7 +2,7 @@
     {
         "workbench.colorTheme": "Default Dark+",
         "cmake.configureOnOpen": true,
-        "window.zoomLevel": 0,
+        "window.zoomLevel": -1,
         "editor.minimap.enabled": true,
         "C_Cpp.autocomplete": "Default",
         "[cpp]": {
